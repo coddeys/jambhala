@@ -16,3 +16,9 @@
 [submodule "jambhalaiken"]
 	path = jambhalaiken
 	url = https://github.com/iburzynski/jambhalaiken
+[submodule "EmurgoAcademyPlutusExamples"]
+	path = EmurgoAcademyPlutusExamples
+	url = git@github.com:coddeys/EmurgoAcademyPlutusExamples.git
+[submodule "EA_NativeScripting"]
+	path = EA_NativeScripting
+	url = git@github.com:coddeys/EA_NativeScripting.git
